@@ -1,4 +1,8 @@
-# Welcome to your CDK TypeScript project
+# Demo CDK Project with S3, Lambda and Apigateway
+
+![image](architecture.png "Diagram")
+
+## Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
